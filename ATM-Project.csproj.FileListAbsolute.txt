@@ -1,0 +1,15 @@
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/bin/Debug/net7.0/ATM-Project
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/bin/Debug/net7.0/ATM-Project.deps.json
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/bin/Debug/net7.0/ATM-Project.runtimeconfig.json
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/bin/Debug/net7.0/ATM-Project.dll
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/bin/Debug/net7.0/ATM-Project.pdb
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ATM-Project.csproj.AssemblyReference.cache
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ATM-Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ATM-Project.AssemblyInfoInputs.cache
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ATM-Project.AssemblyInfo.cs
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ATM-Project.csproj.CoreCompileInputs.cache
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ATM-Project.dll
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/refint/ATM-Project.dll
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ATM-Project.pdb
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ATM-Project.genruntimeconfig.cache
+/Users/joshuajones/Projects/ATM-Project/ATM-Project/obj/Debug/net7.0/ref/ATM-Project.dll
